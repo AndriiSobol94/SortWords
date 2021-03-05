@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SortWords": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\TestTask\\TASK\\F1.txt C:\\TestTask\\TASK\\F2.txt C:\\TestTask\\TASK\\F3.txt"
+    }
+  }
+}
